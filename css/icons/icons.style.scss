@@ -1,0 +1,15 @@
+// icons.scss
+
+// icons.scss
+
+$icon-size: 1.5rem; // Definir el tamaño deseado
+
+@mixin icon($icon-url) {
+  display: inline-block;
+  width: $icon-size;
+  height: $icon-size;
+  background-image: url('#{$icon-url}');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
