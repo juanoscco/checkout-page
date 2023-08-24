@@ -36,7 +36,8 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![image](https://github.com/JuanOsccoMori/checkout-page/assets/58866695/a3cde5fd-c115-414e-9f90-a485be542c19)
+
 
 Where can I see your demo?
 You can explore our online demo of the Checkout Template at ([link to demo]). Here you can experience how the checkout process will look and work for your customers. Browse through the different sections, add products to the cart and make a mock purchase to get a complete view of the experience.
