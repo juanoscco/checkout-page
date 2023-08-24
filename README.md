@@ -40,7 +40,7 @@
 
 
 #### Where can I see your demo?
-You can explore our online demo of the Checkout Template at ([link to demo]). Here you can experience how the checkout process will look and work for your customers. Browse through the different sections, add products to the cart and make a mock purchase to get a complete view of the experience.
+You can explore our online demo of the Checkout Template at ([https://juanosccomori.github.io/checkout-page/]). Here you can experience how the checkout process will look and work for your customers. Browse through the different sections, add products to the cart and make a mock purchase to get a complete view of the experience.
 
 #### What was our experience?
 We designed this checkout template with an optimized user experience in mind. Every step of the checkout process has been streamlined so customers can complete their purchases quickly and without hassle. We've worked closely with designers and usability experts to make sure every interaction is intuitive and enjoyable.
