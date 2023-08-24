@@ -39,16 +39,16 @@
 ![image](https://github.com/JuanOsccoMori/checkout-page/assets/58866695/a3cde5fd-c115-414e-9f90-a485be542c19)
 
 
-Where can I see your demo?
+#### Where can I see your demo?
 You can explore our online demo of the Checkout Template at ([link to demo]). Here you can experience how the checkout process will look and work for your customers. Browse through the different sections, add products to the cart and make a mock purchase to get a complete view of the experience.
 
-What was our experience?
+#### What was our experience?
 We designed this checkout template with an optimized user experience in mind. Every step of the checkout process has been streamlined so customers can complete their purchases quickly and without hassle. We've worked closely with designers and usability experts to make sure every interaction is intuitive and enjoyable.
 
-What have we learned/improved?
+#### What have we learned/improved?
 Throughout this project, we have learned the importance of simplicity in the checkout process. Every element, from product presentation to payment options, must be clear and easy to understand. We have improved our skills in user-centered design and conversion optimization. Plus, we've fine-tuned the seamless integration of popular payment methods to ensure seamless and secure transactions.
 
-Our wisdom? :)
+#### Our wisdom? :)
 The buying process is the last crucial step in the customer journey. An efficient and easy-to-use checkout page can make the difference between a customer completing a purchase and one abandoning their cart. Keep things simple, clearly display shipping costs and options, and provide support if you have questions. Remember, every click counts on the path to conversion.
 
 ### Built With
