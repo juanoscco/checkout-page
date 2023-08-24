@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Checkout Page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -38,20 +38,25 @@
 
 ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+Where can I see your demo?
+You can explore our online demo of the Checkout Template at ([link to demo]). Here you can experience how the checkout process will look and work for your customers. Browse through the different sections, add products to the cart and make a mock purchase to get a complete view of the experience.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+What was our experience?
+We designed this checkout template with an optimized user experience in mind. Every step of the checkout process has been streamlined so customers can complete their purchases quickly and without hassle. We've worked closely with designers and usability experts to make sure every interaction is intuitive and enjoyable.
+
+What have we learned/improved?
+Throughout this project, we have learned the importance of simplicity in the checkout process. Every element, from product presentation to payment options, must be clear and easy to understand. We have improved our skills in user-centered design and conversion optimization. Plus, we've fine-tuned the seamless integration of popular payment methods to ensure seamless and secure transactions.
+
+Our wisdom? :)
+The buying process is the last crucial step in the customer journey. An efficient and easy-to-use checkout page can make the difference between a customer completing a purchase and one abandoning their cart. Keep things simple, clearly display shipping costs and options, and provide support if you have questions. Remember, every click counts on the path to conversion.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
+- [SCSS/SASS](https://sass-lang.com/)
 
 ## Features
 
@@ -60,31 +65,16 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/0J1NxxGhOUYVqihwegfO) was to build an application to complete the given user stories.
 
 
-## How To Use
-
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
-```
 
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
+- [A Custom Select Box Using HTML & CSS](https://codepen.io/anna_blok/pen/eYYvxoK)
 - [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+
+- GitHub [@JuanOsccoMori](https://{github.com/JuanOsccoMori})
+- Twitter [@your-twitter](https://{twitter.com/JuanOsccoMori})
